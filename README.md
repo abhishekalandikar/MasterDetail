@@ -56,5 +56,7 @@ The Master-Detail pattern is a common UI design pattern used in many application
 ### Usage
 
 1.Navigate to the Master View to see the list of items.
+
 2.Click on an item to view its details.
+
 3.Use the buttons to create, update, or delete items.
